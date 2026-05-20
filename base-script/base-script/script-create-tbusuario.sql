@@ -6,12 +6,3 @@ CREATE TABLE tb_usuario(
   ds_password VARCHAR(150) NOT NULL,
   CONSTRAINT pk_usuario PRIMARY KEY(id)
 )
-
-a)	if x > 10 then { }  
-
-
-if ($x > 10) { }
-
-if ($x > 10) then { }
-
-if x > 10 { }
